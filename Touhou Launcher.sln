@@ -1,7 +1,7 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Touhou Launcher", "Touhou Launcher\Touhou Launcher.csproj", "{DC2E240A-725B-4A6C-83B0-73DBAAB13D1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Touhou Launcher", "Touhou Launcher\Touhou Launcher.csproj", "{DC2E240A-725B-4A6C-83B0-73DBAAB13D1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
