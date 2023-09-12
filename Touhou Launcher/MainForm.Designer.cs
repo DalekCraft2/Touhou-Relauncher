@@ -633,7 +633,7 @@
             label1.Name = "label1";
             label1.Size = new System.Drawing.Size(202, 24);
             label1.TabIndex = 0;
-            label1.Text = "Touhou Launcher 1.03";
+            label1.Text = "Touhou Launcher 1.0.3";
             // 
             // settings
             // 
